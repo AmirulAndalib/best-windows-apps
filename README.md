@@ -50,7 +50,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[PowerToys][57]|微软出品的效率工具合集，增强 Windows 系统体验|免费 + 开源|[介绍1][58] \| [介绍2][59]|
 |[Beyond Compare][60]|好用又万能的文件对比工具|试用 + 付费|[教程][61]|
 |[Bulk Rename Utility][62]|强大的文件重命名工具，支持正则、JS，还有更多高级功能|个人免费 + 商用付费|[简易教程][63]|
-|[WirelessKeyView][64]|查看被系统保存过的 WiFi 密码|免费|[介绍][65]|
+|[WirelessKeyView][64]|查看被系统保存过的 WiFi 密码|免费||
 |[Internet Download Manager][66]|这年头你已经很难找到一款老实的下载软件了|试用 + 付费|[评测][67]|
 |[PotPlayer][68]|一款用心在做的全能视频播放器|免费|[介绍][69]|
 |[Notepad++][70]|轻量级纯文本编辑器，可以替代系统自带记事本|免费 + 开源|[讨论][71]|
@@ -62,7 +62,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[Geek Uninstaller][83]|清理卸载残留文件，简洁易用|免费|[介绍][84]|
 |[Dism++][85]|系统备份、还原、清理开机密码，装机必备|免费 + 开源|[介绍][86]|
 |[火绒][145]|病毒查杀，访问控制，和弹窗说再见，装机必备|个人免费 + 企业付费|[介绍][145]|
-|[Utools][146]|Windows软件启动器和多功能工具集合，类似Alfred|免费|[评测][147]|
+|[Utools][146]|Windows软件启动器和多功能工具集合，类似Alfred|免费||
 |[芙芙工具箱][148]|帮你简化重复操作的工具箱，让你不再手动操作费时费力|免费 + 开源|[介绍][149] \| [文档][150]|
 |[Cozy][155]|本地优先的私密日记，纯文本 Markdown 存储，数据始终留在自己的设备上，不上传服务器|付费|[官网][156]|
 
@@ -86,13 +86,13 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[JetBrains 系列 IDE][108]|无论你处于什么技术栈，JetBrains 系列 IDE 几乎都是必不可少的|试用 + 付费 + 开源|[讨论][109]
 |[Visual Studio Code][110]|微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款|免费 + 开源|[评测][111]|
 |[CodelLobster][151]|方便的代码编辑器，特别支持许多流行的框架|免费|[教程][152]|
-|[Fiddler][112]|特别好用的 HTTP 抓包、篡改工具|免费|[介绍][113]|
+|[Fiddler][112]|特别好用的 HTTP 抓包、篡改工具|免费||
 |[WinSCP][114]|开源免费而又功能强大的 FTP 客户端|开源 + 免费|[介绍][115]|
 |[FlashFXP][116]|老牌、功能强度大又易用的 FTP 客户端|试用 + 付费|[介绍][117]|
 |[AutoIt][118]|编程友好的键鼠屏自动化软件|免费 + 开源|[讨论][119]|
 |[Gpg4win][120]|Windows 平台上的完整 GPG 套件，包含 GUI|免费 + 开源|[介绍][121]|
 |[OpenHashTab][122]|资源管理器右键文件->属性，即可查看 MD5、SHA1 等各类 Hash|免费 + 开源|[介绍][123]|
-|[Cherry Studio][153]|支持国内外多款 AI 大语言模型的 GPT 客户端，支持快速的模型切换|免费 + 开源|[介绍][154]|
+|[Cherry Studio][153]|支持国内外多款 AI 大语言模型的 GPT 客户端，支持快速的模型切换|免费 + 开源||
 
 
 [*返回目录*][124]
@@ -188,7 +188,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [62]: https://www.bulkrenameutility.co.uk/
   [63]: https://www.gezila.com/tutorials/58882_all.html
   [64]: https://www.nirsoft.net/utils/wireless_key.html
-  [65]: https://www.ihacksoft.com/wirelesskeyview.html
   [66]: https://www.internetdownloadmanager.com/
   [67]: https://xbeta.info/idm.htm
   [68]: https://potplayer.daum.net/
@@ -236,7 +235,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [110]: https://code.visualstudio.com/
   [111]: https://www.jianshu.com/p/2ae767137725
   [112]: https://www.telerik.com/fiddler
-  [113]: https://mccxj.github.io/blog/20130531_introduce-to-fiddler.html
   [114]: https://winscp.net/
   [115]: https://zhuanlan.zhihu.com/p/337550640
   [116]: https://www.flashfxp.com/
@@ -270,13 +268,11 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [144]: #%E7%9B%AE%E5%BD%95
   [145]: https://www.huorong.cn/person5.html
   [146]: https://www.u.tools/
-  [147]: https://www.youtube.com/watch?v=Gh4AmEqX-qM
   [148]: https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/
   [149]: https://github.com/DuckDuckStudio/Fufu_Tools/blob/main/README.md
   [150]: https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/wiki/
   [151]: https://codelobster.com/
   [152]: https://blog.csdn.net/uw63zqpkxwlrl1/article/details/103502127
   [153]: https://easys.run/cherry-ai/
-  [154]: https://hao.logosc.cn/p/3748
   [155]: https://cozyjournal.app
   [156]: https://cozyjournal.app
